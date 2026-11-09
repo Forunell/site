@@ -1,5 +1,3 @@
-Portfolio
-
 Personal portfolio with five project case studies: FormaStore, DealPilot, BookNest, FlowDesk Bot and DataForge.
 
 Built with HTML, CSS and JavaScript. Includes responsive project cards, light and dark themes, category filters and image galleries.
