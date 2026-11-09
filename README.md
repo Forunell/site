@@ -1,4 +1,4 @@
-#Portfolio
+Portfolio
 
 Personal portfolio with five project case studies: FormaStore, DealPilot, BookNest, FlowDesk Bot and DataForge.
 
